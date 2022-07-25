@@ -1,1 +1,1 @@
-main.o: main.cpp
+main.o: main.cpp Contenido.h Pelicula.h
